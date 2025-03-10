@@ -1,0 +1,12 @@
+{
+  "name": "proyectoci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oscarsheins/proyectoci-yarn.git",
+  "author": "oscar <oscarcoronadodominguez@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": { "test": "jest" }  
+}
